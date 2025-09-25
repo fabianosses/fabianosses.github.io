@@ -1,0 +1,8 @@
+
+El ejemplo de portfolio que utilizaré es el siguiente:
+https://themewagon.github.io/ronaldo/
+Obtenido de la página https://themewagon.com/
+Elijo este ejemplo por su sencillez, tiene un poco de animación,
+con estructura que mustra fácilmente datos personales, académicos y laboral. 
+Se puede perfeccionar cambiando a un tono oscuro, eliminando información no deseada 
+y agregar otros que sean acorde a mi persona.
