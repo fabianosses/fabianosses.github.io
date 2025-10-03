@@ -1,0 +1,10 @@
+Estrategia y Contenido.
+Selección Estratégica de Proyectos. Elegir el mejor proyecto para mostrar.
+Presenta Casos de Estudio (Storytelling). Contar la historia detrás del proyecto, que
+contenga:
+    - El Reto/Objetivo: ¿Cuál era el problema a resolver?
+    - Tu Rol y Proceso: ¿Qué hice exactamente?
+    - El Resultado: ¿Qué se logró? (incluir métricas o resultados tangibles).
+Mostrar Habilidades Específicas: Enumera claramente las habilidades (lenguajes de programación,
+ frameworks, herramientas de diseño, metodologías) y demostrar su aplicación en los proyectos.
+
